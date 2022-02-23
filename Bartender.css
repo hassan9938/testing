@@ -7,10 +7,10 @@ body{
 
 #wrap {
 
-    background-color: wheat;
+    background-color:navajowhite;
     height: 800px;
     width: 100%;
-    align-content: center;
+    alignment: center;
     color: black;
 
 
@@ -45,8 +45,6 @@ body{
     border-color: white;
     border-radius: 15px;
     border-style: dashed;
-
-
     float: left;
 
 }
@@ -90,7 +88,62 @@ body{
 
 }
 
+.image1 {
+    height: 150px;
+    width: 150px;
+    margin: 27px;
+    border-radius: 15px;
+    border-style: dashed;
+    float: left;
+}
 
+
+.image2 {
+    height: 150px;
+    width: 150px;
+    margin: 27px;
+    border-radius: 15px;
+    border-style: dashed;
+    float: left;
+    background-repeat: no-repeat;
+
+}
+
+.image3 {
+    height: 150px;
+    width: 150px;
+    margin: 27px;
+    border-radius: 15px;
+    border-style: dashed;
+    float: left;
+}
+
+.image4 {
+    height: 150px;
+    width: 150px;
+    margin: 27px;
+    border-radius: 15px;
+    border-style: dashed;
+    float: left;
+}
+
+
+
+
+img{
+
+    border-radius: 15px;
+    height: 150px;
+    width: 150px;
+
+}
+img:hover{
+    height: 200px;
+    width: 200px;
+    color: green;
+    text-decoration: green;
+
+}
 
 p{
 
@@ -98,6 +151,4 @@ p{
     color: white;
     font-family: "Arial Black";
     font-size: 14px;
-
-
 }
